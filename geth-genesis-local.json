@@ -15,7 +15,7 @@
         "terminalTotalDifficulty": 0,
         "terminalTotalDifficultyPassed": true,
         "ethash": {},
-        "astriaRollupName": "astria-test-chain-1",
+        "astriaRollupName": "eddy-test-1",
         "astriaOverrideGenesisExtraData": true,
         "astriaSequencerInitialHeight": 2,
         "astriaSequencerAddressPrefix": "astria",
@@ -33,6 +33,6 @@
     "difficulty": "10000000",
     "gasLimit": "8000000",
     "alloc": {
-        "0xA2A7d9CA42EF412EEFbb3D0157d5f199Af7f2780": { "balance": "300000000000000000000" }
+        "0xE4bDB7A2Df2a6Cfe4C30f808E24980c13D110eAa": { "balance": "300000000000000000000" }
     }
 }
